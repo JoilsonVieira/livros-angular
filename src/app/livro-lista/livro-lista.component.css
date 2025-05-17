@@ -1,0 +1,15 @@
+th {
+    color: white;
+    background-color: black;
+    text-align: left;
+    padding: 10px;
+    font-weigth: bold;
+}
+
+td {
+    padding:10px;
+}
+
+.btn{
+    margin-top: 10px;
+}
